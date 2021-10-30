@@ -18,3 +18,4 @@ collections:
       - { label: "Featured image", name: "image", widget: "image" }
       - { label: "Image caption", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+https://brave-blackwell-01e153.netlify.app/assets/blog/article-3.jpg
